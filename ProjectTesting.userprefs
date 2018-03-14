@@ -1,0 +1,39 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Read Me.txt">
+    <Files>
+      <File FileName="Assets\Scripts\Player.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\JumpOnHeadController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MachineGunController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Enemy.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GenerateLevel.cs" Line="267" Column="44" />
+      <File FileName="Assets\Scripts\CubeBossAI.cs" Line="52" Column="76" />
+      <File FileName="Assets\Scripts\GenerateCaveLevel.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DestroyMe.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\HomingProjectileController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlatformMove.cs" Line="31" Column="3" />
+      <File FileName="Assets\Scripts\PlayerController.cs" Line="108" Column="35" />
+      <File FileName="Assets\Scripts\BlinkController.cs" Line="74" Column="1" />
+      <File FileName="Assets\Scripts\SceneHandler.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PowerUpController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MoveWithPlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ProjectileController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\FreezePlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\inflictDamage.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BeamController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ExplodingEnemyController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MoveCamera.cs" Line="20" Column="69" />
+      <File FileName="Assets\Scripts\EnemyController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\FollowPlayer.cs" Line="28" Column="2" />
+      <File FileName="Assets\Scripts\RandomResize.cs" Line="22" Column="2" />
+      <File FileName="Assets\Scripts\BulletController.cs" Line="15" Column="108" />
+      <File FileName="Assets\Scripts\InflictDamageByContact.cs" Line="20" Column="1" />
+      <File FileName="Assets\Scripts\AddWind.cs" Line="8" Column="1" />
+      <File FileName="Assets\Read Me.txt" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
